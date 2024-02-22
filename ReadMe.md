@@ -19,11 +19,11 @@ This is the user program, it does not have access to the admin program's feature
 
 ### INSTRUCTIONS: ###
 
-1 - Run the Admin.py file
-2 - Use the Password ' AdminP '
-3 - Select the populate database function
-4 - Close Admin.py 
-5 - Run main.py file
+* 1 - Run the Admin.py file
+* 2 - Use the Password ' AdminP '
+* 3 - Select the populate database function
+* 4 - Close Admin.py 
+* 5 - Run main.py file
 
 
 ### VIP USERS ###
