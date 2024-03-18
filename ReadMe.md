@@ -1,6 +1,6 @@
 # ABOUT 
 
-This project was a university assignment. The criteria was to create a a car rental system with conditional pricing and tracked inventory. In order to make the program more applicable to a real world implementation, I included a SQL database locally that could be encrypted and decrypted as required. Further functionality would be required for implementation - predominantly on the admin side, that needs to be able to edit the user database.
+This project was a university assignment. The criteria was to create a a car rental system with conditional pricing and tracked inventory. In order to make the program more applicable to a real world implementation, I included an SQL database locally so that it could be encrypted and decrypted if required. Further functionality would be required for implementation - predominantly on the admin side, that needs to be able to edit the user database.
 
 
 ## File structure:
